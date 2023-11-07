@@ -6,7 +6,7 @@
 
  **Technologies Used:**
 
-The following technologies are used in this project are used to create an application that allows users to extract, store, and query various data insights
+The following technologies are used in this project are used to create an application that allows users to extract, store, and query various data insights.
 - Python
 - Github cloning
 - Pandas
