@@ -49,7 +49,7 @@ if selected == "Home":
             col1.markdown("### :orange[Synopsis:]")
             col1.markdown("### :white[:blue[Step 1]: Extract data from the Phonepe pulse Github repository through python scripting and cloning the data.]")
             col1.markdown("### :white[:blue[Step 2]: Cloned data is converted into pandas Data frame and required cleaning operations are carried out. ]")
-            col1.markdown("### :white[:blue[Step 3]: After cleaning the data transferred into a MySQL database for storing and for efficient retrieval.]")
+            col1.markdown("### :white[:blue[Step 3]: After cleaning,the data transferred into a MySQL database for storing and for efficient retrieval.]")
             col1.markdown("### :white[:blue[Step 4]: Using streamlit,the data visualisation dashboard is builded.]")
             col1.markdown("### :white[:blue[Step 5]: Valuable insights are gained by querying the data and visualised in dashboard using Plotly.]")
             col2.write("##  ")
